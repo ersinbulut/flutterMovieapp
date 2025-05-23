@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "241656520289",
+    "firebase_url": "https://film-d6533-default-rtdb.firebaseio.com",
+    "project_id": "film-d6533",
+    "storage_bucket": "film-d6533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241656520289:android:6d65cfae87b7e1920b1420",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCdRqds8Wi-l4spoYdjmgGO29hzHeA3SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
